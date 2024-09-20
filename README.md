@@ -1,7 +1,8 @@
-YARAA is the best 
-YARAA is the best 
-YARAA is the best 
-YARAA is the best 
+psskch
+psskch
+psskch
+psskch
+psskch
 
 **YARAA** (Yet Another Rag Automation Attempt) is a library that simplifies the development of RAG (Retrieval-Augmented Generation) pipelines. You can build your vector database in any way you prefer, and YARAA will assist you in testing, evaluating, and optimizing the best configurations.
 
